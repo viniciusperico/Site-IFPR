@@ -1,0 +1,27 @@
+.cronograma-container {
+  text-align: center;
+  background-color: rgb(204, 204, 204);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  margin: 0 51px;;
+}
+
+.cronograma-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.imagem-container {
+  display: flex;
+  justify-content: center;
+}
+
+.imagem-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
